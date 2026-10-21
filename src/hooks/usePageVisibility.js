@@ -1,0 +1,1 @@
+import{useEffect,useState}from"react";export function usePageVisibility(){const[v,set]=useState(()=>document.visibilityState==="visible");useEffect(()=>{const f=()=>set(document.visibilityState==="visible");document.addEventListener("visibilitychange",f);return()=>document.removeEventListener("visibilitychange",f)},[]);return v}

@@ -1,0 +1,1 @@
+Place atlas-poster.webp and og-image.webp here. The SVG logo and favicon are included.

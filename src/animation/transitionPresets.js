@@ -1,0 +1,1 @@
+export const transitionPresets={soft:{duration:.6,ease:"power3.out"},cinematic:{duration:1.2,ease:"power4.out"},quick:{duration:.25,ease:"power2.out"}};

@@ -1,0 +1,1 @@
+import{gsap}from"../lib/gsap.js";export function revealTimeline(element,vars={}){return gsap.fromTo(element,{autoAlpha:0,y:28},{autoAlpha:1,y:0,duration:.9,ease:"power3.out",...vars})}

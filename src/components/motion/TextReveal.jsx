@@ -1,0 +1,1 @@
+import Reveal from"./Reveal.jsx";export default function TextReveal({children,className=""}){return <Reveal className={className}>{children}</Reveal>}

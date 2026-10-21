@@ -1,0 +1,1 @@
+export function trackEvent(name,details={}){if(import.meta.env.DEV)console.debug("[analytics:local]",name,details)}

@@ -1,0 +1,1 @@
+Place atlas-intro-desktop.mp4 (16:9) and atlas-intro-mobile.mp4 (9:16) in this folder.

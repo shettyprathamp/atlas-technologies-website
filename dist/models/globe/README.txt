@@ -1,0 +1,1 @@
+Optional earth.glb asset location. The included scene currently creates a procedural globe.

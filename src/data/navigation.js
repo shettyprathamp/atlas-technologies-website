@@ -1,0 +1,1 @@
+export const navigation=[{label:"Approach",href:"#manifesto"},{label:"Services",href:"#services"},{label:"Selected work",href:"#projects"},{label:"About",href:"#about"}];

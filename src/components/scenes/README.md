@@ -1,0 +1,1 @@
+Procedural Three.js globe is active; earth.glb and sky.hdr are optional future assets.

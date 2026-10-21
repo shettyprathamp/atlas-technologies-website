@@ -1,0 +1,4 @@
+export const projects=[
+{number:"01",title:"Framez",category:"Digital platform · Creative",year:"2026",image:"https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1600&q=85",description:"A sharper digital home for a new generation of visual storytellers."},
+{number:"02",title:"Project Atlas",category:"Product design · Operations",year:"2026",image:"https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=85",description:"A connected operations experience designed to bring people and process together."},
+{number:"03",title:"New perspectives",category:"Brand experience · Web",year:"Concept",image:"https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1600&q=85",description:"An editorial concept about seeing familiar things differently."}];

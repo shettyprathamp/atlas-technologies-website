@@ -1,0 +1,1 @@
+export default function IntroFallback({onComplete}){return <div className="intro-fallback"><span>A</span><p>Ideas find their direction.</p><button onClick={onComplete}>Enter Atlas ↗</button></div>}

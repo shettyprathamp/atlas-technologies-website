@@ -1,0 +1,1 @@
+export default function GlobeLighting(){return <><ambientLight intensity={1}/><pointLight position={[2,2,2]} intensity={2} color="#d9b779"/></>}

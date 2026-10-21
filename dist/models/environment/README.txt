@@ -1,0 +1,1 @@
+Optional sky.hdr asset location.

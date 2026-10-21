@@ -1,0 +1,1 @@
+import{useEffect,useState}from"react";export function useWebGLSupport(){const[v,set]=useState(false);useEffect(()=>{try{const c=document.createElement("canvas");set(Boolean(window.WebGLRenderingContext&&(c.getContext("webgl")||c.getContext("experimental-webgl"))))}catch{set(false)}},[]);return v}

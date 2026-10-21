@@ -1,0 +1,1 @@
+import{useEffect,useState}from"react";export function useScrollProgress(){const[p,set]=useState(0);useEffect(()=>{const f=()=>{const max=document.documentElement.scrollHeight-innerHeight;set(max>0?scrollY/max:0)};addEventListener("scroll",f,{passive:true});addEventListener("resize",f);f();return()=>{removeEventListener("scroll",f);removeEventListener("resize",f)}},[]);return p}

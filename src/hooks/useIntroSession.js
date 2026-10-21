@@ -1,0 +1,1 @@
+import{useCallback,useState}from"react";const KEY="atlas-intro-seen-v1";export function useIntroSession(){const[shouldPlayIntro]=useState(()=>{try{return!sessionStorage.getItem(KEY)}catch{return true}});const markIntroSeen=useCallback(()=>{try{sessionStorage.setItem(KEY,"1")}catch{}},[]);return{shouldPlayIntro,markIntroSeen}}

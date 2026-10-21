@@ -1,0 +1,1 @@
+Service wrappers isolate API behavior from UI components.

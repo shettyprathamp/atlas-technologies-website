@@ -1,0 +1,1 @@
+export const motionDefaults={duration:.8,ease:"power3.out",stagger:.08};

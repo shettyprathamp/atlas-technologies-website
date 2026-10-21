@@ -1,0 +1,1 @@
+import{trackEvent}from"../lib/analytics.js";export const analyticsService={track:trackEvent};

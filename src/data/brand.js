@@ -1,0 +1,1 @@
+export const brand={name:"Atlas Technologies",tagline:"Build beyond.",email:"hello@atlas-technologies.com",location:"India · Working everywhere",social:[{label:"Instagram",href:"https://www.instagram.com/"},{label:"LinkedIn",href:"https://www.linkedin.com/"}]};

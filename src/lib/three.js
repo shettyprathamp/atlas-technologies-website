@@ -1,0 +1,1 @@
+export const globePalette={base:"#1d2727",highlight:"#d9b779",atmosphere:"#7f9e9b"};

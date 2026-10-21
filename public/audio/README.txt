@@ -1,0 +1,1 @@
+Optional ambient.mp3. Audio is intentionally not auto-played.

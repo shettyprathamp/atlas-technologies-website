@@ -1,0 +1,1 @@
+import{sendContactMessage}from"../lib/contactApi.js";export const contactService={send:sendContactMessage};

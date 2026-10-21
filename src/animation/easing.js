@@ -1,0 +1,1 @@
+export const easing={out:"power3.out",inOut:"power2.inOut",cinematic:"power4.out"};

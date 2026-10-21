@@ -1,0 +1,1 @@
+Place locally licensed fonts, textures, image assets, and icons in these folders.
